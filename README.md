@@ -1,2 +1,1 @@
-# my_new_repository
-My new repository for studying in university.
+# my_new_repositoryMy new repository for studying in university.У моєму варіанті лабораторної потрібно було створити клас Bug, який міститиме опис, severity (складність), дедлайн, статус і assignee. Також потрібно було додати клас Backlog, який містить список баг. І треба було реалізувати можливість виведення баг певного розробника, які мають статус RESOLVED та сортування беклогу за severity.Щоб запустити цей код, потрібно створити новий проєкт у Visual Studio, додати туди усі два файли (laba5.h, laba5.cpp) та натиснути ctrl+f5, щоб скомпілювати.
