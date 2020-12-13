@@ -1,2 +1,1 @@
-# my_new_repository
-My new repository for studying in university.
+# my_new_repositoryMy new repository for studying in university.In my version of the lab I needed to create a Bug class that will contain a description, severity, deadline, status, and assignee. I also needed to add a Backlog class that contains a list of bugs. Also I needed to implement the ability to output a bug from a specific developer that has the status RESOLVED and sort backlog by severity.To run this code, you need to create a new project in Visual Studio, add there these two files (laba5.h, laba5.cpp) and press ctrl + f5 to compile.
